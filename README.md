@@ -9,3 +9,5 @@ Tools for converting Markdown Source File to Reveal.js HTML5 slides
 4. cd into the directory markdown2slides
 5. Open config.json, and change the information according to your situation
 6. run python3 md2slide.py example/myslide.md
+
+[微信公众号上面的教程](https://mp.weixin.qq.com/s/CHca0V7LR4NhomtLIPhc4w)
